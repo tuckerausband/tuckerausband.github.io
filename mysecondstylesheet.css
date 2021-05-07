@@ -1,0 +1,42 @@
+img {
+	width : 200px;
+}
+
+h1 {
+	padding:0px;
+	text-align: center;
+}
+
+body {
+	background-color: grey;
+}
+
+td {
+	font-size: 48px;
+	padding:50px;
+}
+
+a:visited{
+	color:White;
+}
+
+#recipeBackGround {
+	background-color:LightGreen;
+}
+
+#recipeImg {
+	width : 400px;
+	height :250px;
+	margin:15px;
+}
+
+#ingr{
+	color : red;
+}
+
+td img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
